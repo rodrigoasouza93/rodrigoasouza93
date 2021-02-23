@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://avatars.githubusercontent.com/u/16824743?s=460&u=b59239cf6fc4eea5bcf04e63250f4e34afbfccd2&v=4" alt="Rodrigo Souza" />
 
-<!--
-**rodrigoasouza93/rodrigoasouza93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rodrigo Augusto Santos de Souza 👋
 
-Here are some ideas to get you started:
+## Olá a todos :blush:
+Sou um apaixonado por tecnologia e desenvolvimento, sempre buscando novos conhecimentos, melhorar minhas skills e ajudar quem está precisando. :smiley:</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalhando íder técnico e desenvolvedor Full Stack. :computer:
+
+:rocket:  &nbsp; Trabalho no <a href="https://sapientia.org.br/" target="_blank">**Instituto CERTI Sapientia**</a>
+ <br/> :purple_heart: &nbsp; Buscando colaborar em projetos Full Stack.
+ <br/> :+1: &nbsp; Posso te ajudar com arquitetura de sistemas e arquitetura limpa.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript, Next.js e Flutter.
