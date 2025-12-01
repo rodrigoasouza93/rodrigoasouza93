@@ -24,7 +24,7 @@ Minha caixa de ferramentas para construir soluções robustas:
 
 ### 🔭 Foco Atual
 
-Recentemente concluí minha **Pós-graduação em Arquitetura de Software Distribuído e Cloud Computing**, aprofundando conhecimentos em **Go** para construir sistemas resilientes e de alta performance.
+Recentemente iniciei minha **Pós-graduação em Arquitetura de FullCycle (software, soluões e DevOps)**, aprofundando conhecimentos em **Go** para construir sistemas resilientes e de alta performance.
 
 Estou interessado em desafios que envolvam:
 * Migração de monólitos para microsserviços.
