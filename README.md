@@ -44,5 +44,5 @@ Um assistente financeiro mobile cross-platform focado em UX e performance.
 
 ### 📫 Conectar
 
-* **Website/Portfolio:** [rodrigosouza.site](https://rodrigosouza.site/) (Em reconstrução)
+* **Website/Portfolio:** [rodrigosouza.site](https://rodrigosouza.site/)
 * **LinkedIn:** [linkedin.com/in/rodrigo-augusto-santos-de-souza](https://www.linkedin.com/in/rodrigo-augusto-santos-de-souza/)
