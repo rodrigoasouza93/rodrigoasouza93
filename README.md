@@ -1,13 +1,48 @@
-<img src="https://avatars.githubusercontent.com/u/16824743?s=460&u=b59239cf6fc4eea5bcf04e63250f4e34afbfccd2&v=4" alt="Rodrigo Souza" />
+# Rodrigo Souza
 
-# Rodrigo Augusto Santos de Souza 👋
+> Senior Fullstack Engineer focado em Arquitetura de Software, Performance e Sistemas Distribuídos.
 
-## Olá a todos :blush:
-Sou um apaixonado por tecnologia e desenvolvimento, sempre buscando novos conhecimentos, melhorar minhas skills e ajudar quem está precisando. :smiley:</br>
+Engenheiro de software atuando desde 2018, atingindo nível Sênior em 2020 através de entregas de alto impacto. Especialista em todo o ciclo de desenvolvimento Web e Mobile, com profundo conhecimento no ecossistema JavaScript/TypeScript e atualmente pós-graduado em Go para backends de alta concorrência.
 
-Atualmente trabalhando íder técnico e desenvolvedor Full Stack. :computer:
+Meu foco é traduzir requisitos complexos em arquiteturas limpas, manuteníveis e escaláveis.
 
-:rocket:  &nbsp; Trabalho no <a href="https://sapientia.org.br/" target="_blank">**Instituto CERTI Sapientia**</a>
- <br/> :purple_heart: &nbsp; Buscando colaborar em projetos Full Stack.
- <br/> :+1: &nbsp; Posso te ajudar com arquitetura de sistemas e arquitetura limpa.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Typescript, Next.js e Flutter.
+---
+
+### 🛠 Tech Stack & Expertise
+
+Minha caixa de ferramentas para construir soluções robustas:
+
+| Domínio | Tecnologias Principais |
+| :--- | :--- |
+| **Mobile (Nativo & Cross)** | React Native, Expo, iOS/Android nativo básico |
+| **Frontend Moderno** | React.js, Next.js, TypeScript, Tailwind CSS, Zustand/Redux |
+| **Backend & API** | Node.js (NestJS, Express), **Golang** (Foco atual) |
+| **Dados & Infra** | PostgreSQL, MongoDB, Redis, Docker, AWS |
+| **Arquitetura** | Microservices, Clean Architecture, Offline-first apps |
+
+---
+
+### 🔭 Foco Atual
+
+Recentemente concluí minha **Pós-graduação em Arquitetura de Software Distribuído e Cloud Computing**, aprofundando conhecimentos em **Go** para construir sistemas resilientes e de alta performance.
+
+Estou interessado em desafios que envolvam:
+* Migração de monólitos para microsserviços.
+* Otimização de performance em aplicações Mobile e Web React.
+* Desenvolvimento de backends escaláveis utilizando Go.
+
+---
+
+### 🚀 Projeto em Destaque
+
+**[Cestou](https://rodrigosouza.site/#projects)**
+Um assistente financeiro mobile cross-platform focado em UX e performance.
+* **Stack:** React Native, Expo, TypeScript.
+* **Destaque:** Arquitetura *Offline-first*, gerenciamento de estado otimizado para 60fps e algoritmos de normalização de preços em tempo real.
+
+---
+
+### 📫 Conectar
+
+* **Website/Portfolio:** [rodrigosouza.site](https://rodrigosouza.site/) (Em reconstrução)
+* **LinkedIn:** [linkedin.com/in/rodrigo-augusto-santos-de-souza](https://www.linkedin.com/in/rodrigo-augusto-santos-de-souza/)
